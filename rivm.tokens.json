@@ -58,15 +58,20 @@
           "bold": {
             "value": "Bold",
             "type": "fontWeights"
+          },
+          "italic": {
+            "value": "Italic",
+            "type": "fontWeights",
+            "description": "Enkel gebruiken voor de slogan "
           }
         },
         "font-family": {
           "primary": {
-            "value": "RijksoverheidSansHeading, Calibri, Verdana, Arial, sans-serif",
+            "value": "RijksoverheidSansWebText, Calibri, Verdana, Arial, sans-serif",
             "type": "fontFamilies"
           },
           "secondary": {
-            "value": "RijksoverheidSansText, Calibri, Verdana, Arial, sans-serif",
+            "value": "RijksoverheidSansWebText, Calibri, Verdana, Arial, sans-serif",
             "type": "fontFamilies"
           }
         }

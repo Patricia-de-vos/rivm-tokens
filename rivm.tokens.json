@@ -5378,6 +5378,168 @@
           }
         }
       }
+    },
+    "rivm": {
+      "notifiction-banner": {
+        "icon": {
+          "size": {
+            "type": "sizing",
+            "value": "{rijkshuisstijl.size.icon.lg}"
+          },
+          "padding-block-end": {
+            "value": "{rijkshuisstijl.space.block.ant}",
+            "type": "spacing"
+          },
+          "padding-block-start": {
+            "value": "{rijkshuisstijl.space.block.ant}",
+            "type": "spacing"
+          },
+          "padding-inline-end": {
+            "value": "0px",
+            "type": "spacing"
+          },
+          "padding-inline-start": {
+            "value": "0px",
+            "type": "spacing"
+          },
+          "informative": {
+            "color": {
+              "value": "{rijkshuisstijl.color.hemelblauw.basis}",
+              "type": "color"
+            }
+          },
+          "positive": {
+            "color": {
+              "value": "{rijkshuisstijl.color.groen.basis}",
+              "type": "color"
+            }
+          },
+          "negative": {
+            "color": {
+              "value": "{rijkshuisstijl.color.rood.basis}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "color": {
+              "value": "{rijkshuisstijl.color.donkergeel.basis}",
+              "type": "color"
+            }
+          }
+        },
+        "column-gap": {
+          "value": "{rijkshuisstijl.space.column.mouse}",
+          "type": "spacing"
+        },
+        "padding-block-end": {
+          "value": "{rijkshuisstijl.space.block.mouse}",
+          "type": "spacing"
+        },
+        "padding-block-start": {
+          "value": "{rijkshuisstijl.space.block.mouse}",
+          "type": "spacing"
+        },
+        "padding-inline-end": {
+          "value": "{rijkshuisstijl.space.inline.mouse}",
+          "type": "spacing"
+        },
+        "padding-inline-start": {
+          "value": "{rijkshuisstijl.space.inline.mouse}",
+          "type": "spacing"
+        },
+        "message": {
+          "row-gap": {
+            "value": "{rijkshuisstijl.space.column.snail}",
+            "type": "spacing"
+          },
+          "padding-block-end": {
+            "value": "{rijkshuisstijl.space.block.snail}",
+            "type": "spacing"
+          },
+          "padding-block-start": {
+            "value": "{rijkshuisstijl.space.block.beetle}",
+            "type": "spacing"
+          }
+        },
+        "informative": {
+          "background-color": {
+            "value": "{utrecht.feedback.informative.background-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.feedback.informative.border-color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.document.color}",
+            "type": "color"
+          }
+        },
+        "negative": {
+          "background-color": {
+            "value": "{utrecht.feedback.negative.background-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.feedback.negative.border-color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.document.color}",
+            "type": "color"
+          }
+        },
+        "positive": {
+          "background-color": {
+            "value": "{utrecht.feedback.positive.background-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.feedback.positive.border-color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.document.color}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "background-color": {
+            "value": "{utrecht.feedback.warning.background-color}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{utrecht.feedback.warning.border-color}",
+            "type": "color"
+          },
+          "color": {
+            "value": "{utrecht.document.color}",
+            "type": "color"
+          }
+        },
+        "border-width": {
+          "value": "{utrecht.form-control.invalid.border-width}",
+          "type": "borderWidth"
+        },
+        "heading": {
+          "font-family": {
+            "value": "{utrecht.heading.font-family}",
+            "type": "fontFamilies"
+          },
+          "font-weight": {
+            "value": "{utrecht.heading.font-weight}",
+            "type": "fontWeights"
+          },
+          "line-height": {
+            "value": "{rijkshuisstijl.typography.line-height.sm}",
+            "type": "lineHeights"
+          },
+          "font-size": {
+            "value": "{rijkshuisstijl.typography.font-size.md}",
+            "type": "fontSizes"
+          }
+        }
+      }
     }
   },
   "$themes": [],

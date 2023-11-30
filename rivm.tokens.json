@@ -4009,7 +4009,7 @@
           },
           "icon": {
             "margin-inline": {
-              "value": "{rijkshuisstijl.space.inline.ant}",
+              "value": "{rijkshuisstijl.space.text.beetle}",
               "type": "spacing"
             },
             "size": {
@@ -4025,11 +4025,11 @@
             "value": "{rijkshuisstijl.space.block.snail}",
             "type": "spacing"
           },
-          "padding-inline-end": {
+          "padding-inline-start": {
             "value": "0px",
             "type": "spacing"
           },
-          "padding-inline-start": {
+          "padding-inline-end": {
             "value": "0px",
             "type": "spacing"
           },
@@ -4115,16 +4115,18 @@
             "type": "sizing",
             "value": "{utrecht.pointer-target.min-size}"
           },
-          "previous": {
-            "padding-inline-end": {
-              "value": "{rijkshuisstijl.space.inline.ant}",
-              "type": "spacing"
-            }
-          },
-          "next": {
-            "padding-inline-start": {
-              "value": "{rijkshuisstijl.space.inline.ant}",
-              "type": "spacing"
+          "disabled": {
+            "background-color": {
+              "type": "color",
+              "value": "transparent"
+            },
+            "border-color": {
+              "type": "color",
+              "value": "transparent"
+            },
+            "color": {
+              "type": "color",
+              "value": "{rijkshuisstijl.color.grijs.500}"
             }
           }
         },
@@ -4148,7 +4150,7 @@
             },
             "background-color": {
               "type": "color",
-              "value": "transparent"
+              "value": "{rijkshuisstijl.color.gray.100}"
             },
             "border-color": {
               "type": "color",
@@ -4254,10 +4256,6 @@
             "value": "{utrecht.pointer-target.min-size}"
           }
         },
-        "gap": {
-          "value": "{rijkshuisstijl.space.inline.ant}",
-          "type": "spacing"
-        },
         "font-family": {
           "value": "{utrecht.document.font-family}",
           "type": "fontFamilies"
@@ -4280,11 +4278,11 @@
             "type": "spacing"
           },
           "padding-inline-end": {
-            "value": "0px",
+            "value": "{rijkshuisstijl.space.inline.ant}",
             "type": "spacing"
           },
           "padding-inline-start": {
-            "value": "0px",
+            "value": "{rijkshuisstijl.space.inline.ant}",
             "type": "spacing"
           },
           "color": {
